@@ -16,3 +16,6 @@ then
 then 
 - create a new branch dev with "git checkout -b dev"
 - edit readme.md again
+
+then 
+- create another branch dev2 locally, with using checkout function in smartgit
