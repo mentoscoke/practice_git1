@@ -9,3 +9,10 @@ This is a pracice readme file for my understanding.
 
 - create a clone from web onto a local machine.
 - edit readme.md
+
+then
+- committed locally, then pushed.
+
+then 
+- create a new branch dev with "git checkout -b dev"
+- edit readme.md again
